@@ -1,15 +1,10 @@
 {
     "creators": [
         {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Field, Gar"
+            "name": "Kiefer, Daniel A.",
+            "affiliation": "Institut Langevin, ESPCI Paris, Universit\u00e9 PSL",
+            "orcid": "0000-0003-0776-8429"
         },
-        {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Cat, Felix"
-        }
     ],
 
     "license": "Apache-2.0",
