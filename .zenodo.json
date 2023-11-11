@@ -1,7 +1,6 @@
 {
     "title": "test",
     "description": "Compute guided elastic wave (GEW) dispersion in MATLAB.",
-    "version": "1.1.1",
     "creators": [
         {
             "name": "Kiefer, Daniel A.",
@@ -9,13 +8,7 @@
             "orcid": "0000-0003-0776-8429"
         },
     ],
-    "contributors": [
-        {
-            "name": "Plestenjak, Bor",
-            "affiliation": "Faculty of Mathematics and Physics, University of Ljubljana",
-            "orcid": "0000-0002-0463-7223"
-        }
-    ],
+    "license": "Apache-2.0",
     "upload_type": "software",
     "keywords": ["guided waves", "dispersion", "Lamb waves", "elastodynamics", "ultrasound", "zero-group-velocity", "anisotropy"]
 }
