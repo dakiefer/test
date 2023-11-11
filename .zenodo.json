@@ -1,6 +1,7 @@
 {
     "title": "GEWtool",
     "description": "Compute guided elastic wave (GEW) dispersion in MATLAB.",
+    "doi": "10.5072/zenodo.10004553",
     "creators": [
         {
             "name": "Kiefer, Daniel A.",
@@ -10,7 +11,7 @@
     ],
     "contributors": [
         {
-            "type": "Researcher",
+            "type": "RelatedPerson",
             "name": "Plestenjak, Bor",
             "affiliation": "Faculty of Mathematics and Physics, University of Ljubljana",
             "orcid": "0000-0002-0463-7223"
