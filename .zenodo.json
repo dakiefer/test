@@ -1,14 +1,35 @@
 {
-    "title": "test",
-    "description": "Compute guided elastic wave (GEW) dispersion in MATLAB.",
     "creators": [
         {
-            "name": "Kiefer, Daniel A.",
-            "affiliation": "Institut Langevin, ESPCI Paris, Universit\u00e9 PSL",
-            "orcid": "0000-0003-0776-8429"
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "Feline reasearch institute",
+            "name": "Field, Gar"
         },
+        {
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "Feline reasearch institute",
+            "name": "Cat, Felix"
+        }
     ],
+
     "license": "Apache-2.0",
-    "upload_type": "software",
-    "keywords": ["guided waves", "dispersion", "Lamb waves", "elastodynamics", "ultrasound", "zero-group-velocity", "anisotropy"]
+
+    "title": "Red-Dot: ML-powered laser vector detection",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1234/software.paper.5678",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
+        }
+    ],
+
+    "keywords": ["Cats", "Laser", "Behavior"],
+
+    "communities": [
+        {"identifier": "software-cats"}
+    ],
+
+    "grants": [{"id":"777541"}]
 }
